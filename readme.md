@@ -23,5 +23,4 @@ Para garantir que o conteúdo seja acessível a todos, este site foi desenvolvid
 - **Bootstrap**: Framework utilizado para estilização e responsividade do layout.
 - **ScrollReveal.js**: Biblioteca usada para adicionar animações de rolagem.
 
---
 
